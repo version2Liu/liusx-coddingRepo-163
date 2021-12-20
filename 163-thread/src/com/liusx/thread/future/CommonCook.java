@@ -6,6 +6,7 @@ package com.liusx.thread.future;
  *
  * @author: Administrator <br>
  * version: 1.0 <br>
+ *
  */
 public class CommonCook {
 
